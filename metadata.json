@@ -1,0 +1,5 @@
+{
+  "name": "DocuGenius AI",
+  "description": "An intelligent documentation generator powered by the Gemini API. Upload your source code, and let AI create comprehensive, well-structured documentation for your projects instantly.",
+  "requestFramePermissions": []
+}
